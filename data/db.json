@@ -1,0 +1,24 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Software Engineer",
+            "detail": "Develop and maintain web applications."
+        },
+        {
+            "id": 2,
+            "title": "Data Scientist",
+            "detail": "Analyze and interpret complex data."
+        },
+        {
+            "id": 3,
+            "title": "Product Manager",
+            "detail": "Oversee product development and strategy."
+        },
+        {
+            "id": 4,
+            "title": "UX/UI Designer",
+            "detail": "Design user interfaces and improve user experience."
+        }
+    ]
+}
